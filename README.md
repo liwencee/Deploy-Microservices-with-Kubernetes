@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- <p align="center">
 <img src="/src/frontend/static/icons/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
 </p> -->
@@ -164,3 +165,7 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
   - [Introduction to Service Management with Istio](https://www.youtube.com/watch?v=wCJrdKdD6UM&feature=youtu.be&t=586)
 - [Google Cloud Next'18 London – Keynote](https://youtu.be/nIq2pkNcfEI?t=3071)
   showing Stackdriver Incident Response Management
+=======
+# Deploy-Microservices-with-Kubernetes
+Deploying a Microservice 3 tier Application using Kubernetes
+>>>>>>> c726a00bf43a7b67cfb5e19b87397df17f334814
